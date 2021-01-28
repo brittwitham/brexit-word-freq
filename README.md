@@ -4,11 +4,11 @@
 
 ## Overview
 
+![Screenshot](https://github.com/brittwitham/brexit-word-freq/blob/main/screenshot.png)
+
 This app was created in the (seemingly endless) lead-up to the UK leaving the European Union ('brexit'), so discussions on the topic could be tracked by displaying the top words associated with the hashtag. Since 2020, 'coronavirus' has scarcely left the top words, which make for an interesting research project later down the line.
 
 It also tracked the "#cdnpoli" hashtag ahead of the Canadian election to track the kinds of discussions taking place. For example, "cabinet" and "shuffle" spiked in the hour after the Prime Minister changed a number of ministers, so the hope is for future applications to identify and track these kinds of events for research and practical applications.
-
-![Screenshot](https://github.com/brittwitham/brexit-word-freq/blob/main/screenshot.png)
 
 ## Installation
 
