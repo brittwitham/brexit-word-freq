@@ -8,7 +8,7 @@ This app was created in the (seemingly endless) lead-up to the UK leaving the Eu
 
 It also tracked the "#cdnpoli" hashtag ahead of the Canadian election to track the kinds of discussions taking place. For example, "cabinet" and "shuffle" spiked in the hour after the Prime Minister changed a number of ministers, so the hope is for future applications to identify and track these kinds of events for research and practical applications.
 
-![Screenshot]()
+![Screenshot](https://github.com/brittwitham/brexit-word-freq/blob/main/screenshot.png)
 
 ## Installation
 
